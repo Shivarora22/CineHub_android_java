@@ -40,6 +40,7 @@
         <TextView
             android:id="@+id/tv_movieDetail_title"
             android:textSize="15sp"
+            android:textColor="@color/white"
             android:text="title"
             android:textStyle="bold"
             android:layout_below="@+id/iv_movieDetail_img"
@@ -52,6 +53,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/tv_movieDetail_title"
             android:text="release date"
+            android:textColor="@color/white"
             android:textSize="15sp" />
 
     </RelativeLayout>
