@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background_1"
+
+    tools:context=".MovieDetailActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/teal_200"
+        android:backgroundTint="@color/cardview_dark_background"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        />
+    <RelativeLayout
+        android:id="@+id/detailContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ProgressBar
+            android:id="@+id/loadingBar"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <ImageView
+            android:id="@+id/iv_movieDetail_img"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="130dp"
+            android:layout_marginRight="40dp"
+
+            android:background="@drawable/search_view_bg"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:id="@+id/tv_movieDetail_title"
+            android:textSize="15sp"
+            android:text="title"
+            android:textStyle="bold"
+            android:layout_below="@+id/iv_movieDetail_img"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/tv_movieDetail_release_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_movieDetail_title"
+            android:text="release date"
+            android:textSize="15sp" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>
