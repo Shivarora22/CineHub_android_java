@@ -1,4 +1,4 @@
-package com.example.moviegalleryandroid;
+package com.example.cinehub_android_java;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -13,10 +13,9 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.example.moviegalleryandroid.model.MovieDetailModel;
-import com.example.moviegalleryandroid.model.MovieModel;
-import com.example.moviegalleryandroid.service.ApiClient;
-import com.example.moviegalleryandroid.service.ApiMethod;
+import com.example.cinehub_android_java.model.MovieDetailModel;
+import com.example.cinehub_android_java.service.ApiClient;
+import com.example.cinehub_android_java.service.ApiMethod;
 
 import retrofit2.Call;
 import retrofit2.Callback;

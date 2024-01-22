@@ -1,5 +1,5 @@
-# Movie Gallery Android Java
-Movie Gallery App - Android Java
+# CineHub Android Java
+CineHub App - Android Java
 1) Get Api Service from https://developer.themoviedb.org/ 
 
 # Popular Movie List

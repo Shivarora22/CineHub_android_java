@@ -1,4 +1,4 @@
-package com.example.moviegalleryandroid.model;
+package com.example.cinehub_android_java.model;
 
 import java.util.ArrayList;
 

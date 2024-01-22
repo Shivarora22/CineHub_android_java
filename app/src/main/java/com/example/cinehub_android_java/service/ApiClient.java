@@ -1,4 +1,4 @@
-package com.example.moviegalleryandroid.service;
+package com.example.cinehub_android_java.service;
 
 import java.io.IOException;
 

@@ -1,4 +1,4 @@
-package com.example.moviegalleryandroid;
+package com.example.cinehub_android_java;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,10 +7,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ProgressBar;
 
-import com.example.moviegalleryandroid.model.MovieModel;
-import com.example.moviegalleryandroid.rvadapter.RVMovieListAdapter;
-import com.example.moviegalleryandroid.service.ApiClient;
-import com.example.moviegalleryandroid.service.ApiMethod;
+import com.example.cinehub_android_java.model.MovieModel;
+import com.example.cinehub_android_java.rvadapter.RVMovieListAdapter;
+import com.example.cinehub_android_java.service.ApiClient;
+import com.example.cinehub_android_java.service.ApiMethod;
 
 import androidx.appcompat.app.AppCompatActivity;
 

@@ -1,4 +1,4 @@
-package com.example.moviegalleryandroid;
+package com.example.cinehub_android_java;
 
 import org.junit.Test;
 

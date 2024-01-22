@@ -1,11 +1,10 @@
-package com.example.moviegalleryandroid.service;
+package com.example.cinehub_android_java.service;
 
-import com.example.moviegalleryandroid.model.MovieDetailModel;
-import com.example.moviegalleryandroid.model.MovieModel;
+import com.example.cinehub_android_java.model.MovieDetailModel;
+import com.example.cinehub_android_java.model.MovieModel;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
-import retrofit2.http.Headers;
 import retrofit2.http.Path;
 import retrofit2.http.Query;
 
