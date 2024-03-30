@@ -11,5 +11,4 @@ CineHub App - Android Java
 # Movie Details
 <img width="300" alt="CineHub3" src="https://github.com/Shivarora22/CineHub_android_java/assets/104933581/bd9a53f7-88b5-4222-828c-7468197a8268">
 
-THE PROJECT IS UNDER DEVELOPMENT
 
