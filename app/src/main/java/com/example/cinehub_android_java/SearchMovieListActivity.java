@@ -17,6 +17,7 @@ import com.example.cinehub_android_java.model.MovieModel;
 import com.example.cinehub_android_java.rvadapter.RVMovieListAdapter;
 import com.example.cinehub_android_java.service.ApiClient;
 import com.example.cinehub_android_java.service.ApiMethod;
+import com.example.moviegalleryandroid.R;
 
 import java.util.ArrayList;
 

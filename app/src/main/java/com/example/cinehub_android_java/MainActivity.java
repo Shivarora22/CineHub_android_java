@@ -11,13 +11,13 @@ import com.example.cinehub_android_java.model.MovieModel;
 import com.example.cinehub_android_java.rvadapter.RVMovieListAdapter;
 import com.example.cinehub_android_java.service.ApiClient;
 import com.example.cinehub_android_java.service.ApiMethod;
+import com.example.moviegalleryandroid.R;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import androidx.appcompat.widget.SearchView;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-
 import java.util.ArrayList;
 
 import retrofit2.Call;

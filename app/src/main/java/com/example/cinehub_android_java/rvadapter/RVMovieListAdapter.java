@@ -14,7 +14,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.example.cinehub_android_java.MovieDetailActivity;
-import com.example.cinehub_android_java.R;
+import com.example.moviegalleryandroid.R;
 import com.example.cinehub_android_java.model.MovieModel;
 
 import java.util.ArrayList;

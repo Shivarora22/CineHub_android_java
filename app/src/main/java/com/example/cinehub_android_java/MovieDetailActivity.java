@@ -11,12 +11,11 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
-
+import com.example.moviegalleryandroid.R;
 import com.bumptech.glide.Glide;
 import com.example.cinehub_android_java.model.MovieDetailModel;
 import com.example.cinehub_android_java.service.ApiClient;
 import com.example.cinehub_android_java.service.ApiMethod;
-
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
